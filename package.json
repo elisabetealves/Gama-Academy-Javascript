@@ -1,0 +1,23 @@
+{
+  "name": "Gama-Academy-Javascript",
+  "version": "1.0.0",
+  "description": "Criar um sistema que armazena informações de livros .",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elisabetealves/Gama-Academy-Javascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elisabetealves/Gama-Academy-Javascript/issues"
+  },
+  "homepage": "https://github.com/elisabetealves/Gama-Academy-Javascript#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
