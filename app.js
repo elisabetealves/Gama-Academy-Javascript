@@ -4,8 +4,8 @@ const readline = require('readline-sync')
 const entradaInicial = readline.question('Deseja buscar um livro?S/N ')
 
 if (entradaInicial.toLocaleUpperCase() === 'S') {
-  console.log('Essas são as categorias disponiveis: ')
-  console.log('Produtividade ', '/História brasileira ','/Américas ','/Estilo de vida ','/Tecnologia')
+  console.log('Essas são as categorias disponiveis no momento: ')
+  console.log('Produtividade ', '/História brasileira ','/AFicção Política ','/Estilo de vida ','/Tecnologia')
 
   const entradaCategoria = readline.question('Qual categoria voce escolhe: ')
 

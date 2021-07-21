@@ -19,11 +19,11 @@ const livros =[
     },
     { 
         id: 3,
-        nome: "As veias abertas da américa latina",
-        autor:"Eduardo galeano",
-        categoria: "Américas",
-        paginas: 400,
-        recomenda: false,
+        nome: "1984",
+        autor:"George Orwell",
+        categoria: "Ficção Política",
+        paginas: 416,
+        recomenda: true,
         leu: false
     },
     { 
